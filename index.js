@@ -84,7 +84,6 @@ app.post("/add", async (req, res) => {
   }
 });
 app.post("/user", async (req, res) => {
-  console.log(req.body);
   if(req.body.add == "new"){
     res.render("new.ejs")
   }else{
