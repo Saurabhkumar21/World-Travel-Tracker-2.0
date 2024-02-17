@@ -2,10 +2,21 @@
 
 The Family World Travel Tracker 2.0 is an enhanced version of the original travel tracking application, designed specifically for families. Built upon the foundation of Node.js, Express.js, EJS, and PostgreSQL, this iteration introduces multi-user functionality, allowing families to collectively track their travel journeys and adventures.
 
+![image](https://github.com/Saurabhkumar21/World-Travel-Tracker-2.0/assets/109983569/c01d917e-6732-4876-a09f-73b258364262)
+
+![image](https://github.com/Saurabhkumar21/World-Travel-Tracker-2.0/assets/109983569/720068f2-bc50-4733-93f8-d1fe17876f13)
+
+
+
 ## Features:
 * Multi-User Support: With the addition of multiple user accounts, families can now track the travel experiences of each family member individually. This feature enables personalized tracking and enhances the overall user experience.
 * Family Management: The application includes functionality to add and manage family members, facilitating seamless integration of new members into the travel tracking system. Users can easily invite and remove family members as needed.
 * Improved User Interface: The user interface has been refined to accommodate multiple users, providing an intuitive and cohesive experience for all family members. Interactive features allow for easy input of travel data and visualization of journeys on the map.
+
+<img src="https://github.com/Saurabhkumar21/World-Travel-Tracker-2.0/assets/109983569/566fb19f-2dd1-4d1f-b29f-047fb6acd09c" width="48%" height="50%">
+
+<img src="https://github.com/Saurabhkumar21/World-Travel-Tracker-2.0/assets/109983569/df4de03a-f81e-4a86-9349-cbb41e317b91" width="48%" height="50%">
+
 
 ## Technologies Used:
 * Node.js: JavaScript runtime used for server-side development.
